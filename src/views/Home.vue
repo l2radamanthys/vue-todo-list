@@ -1,6 +1,6 @@
 <template>
   <div class="mw8 center pa3">
-    <div class="f1 gray">
+    <div class="f3 gray">
       Listado de Tareas
     </div>
     <listado-tareas/>

@@ -14,3 +14,10 @@
 .flex1 {
   flex: 1;
 }
+
+
+.remove-outline {
+  textarea:focus, input:focus{
+    outline: none;
+  }
+}
